@@ -1,3 +1,3 @@
 # ipfs-image-upload
 
-Images and PDFs both has been tested for uploading
+You can upload all the files like: Image, PDF, Video, Torrent, etc.
